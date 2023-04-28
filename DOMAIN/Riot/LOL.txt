@@ -1,0 +1,8 @@
+  - '+.riotgames.com'
+  - '+.riotcdn.net'
+  - '*.newrelic.com'
+  - '+.pvp.net'
+  - 'lolstatic-a.akamaihd.net'
+  - 'lolesports.com'
+  - 'prod.embed.rgpub.io'
+  - 'pft.leagueoflegends.com'
