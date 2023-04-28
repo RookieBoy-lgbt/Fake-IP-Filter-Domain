@@ -1,0 +1,3 @@
+  - '+.playstation.net'
+  - '+.playstation.com'
+  - '+.sonycoment.loris-e.llnwd.net'
